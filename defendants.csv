@@ -1,0 +1,101 @@
+"LastName","FirstName","charge","month","day ","year","LON","LAT","NUMBER","STREET","UNIT","CITY","POSTCODE","ID","HASH","officerId","prosecutorId","judgeId"
+"Smith","Emma","public consumption of alcohol   ",2,13,2018,-73.8576522,40.8956763,662,"E  236 ST","REAR","New York",10466,5145367,"cb52464995e82162",4,5,3
+"Johnson","Ava","disorderly conduct              ",1,3,2018,-73.9144503,40.5569497,1,"BRANT WALK",,"New York",11697,344652,"03844972454b7160",3,3,2
+"Williams","Andrew","public urination                ",3,25,2018,-73.9264377,40.5544463,109,"BCH 219 ST",,"New York",11697,345570,"4198b73deb8c6fe1",8,5,3
+"Jones","Alexander","disorderly conduct              ",1,18,2018,-73.9149692,40.5567908,7,"CHESTER WALK",,"New York",11697,346144,"8b71af30d9d79e2b",5,2,2
+"Brown","Christopher","public consumption of alcohol   ",2,10,2018,-73.9595004,40.779665,1125,"MADISON AVE",,"New York",10028,1036844,"d44ffe2e49d66aeb",5,3,2
+"Davis","Nicholas","riding a bicycle on the sidewalk",2,5,2018,-73.9437274,40.7931683,1970,"3 AVE",,"New York",10029,1041215,"70a8834b0562d830",7,2,5
+"Miller","Abigail","park offenses                   ",1,1,2018,-73.9448746,40.7939283,1751,"LEXINGTON AVE",,"New York",10029,1041233,"02ccc463b67f5fd5",8,2,1
+"Wilson","Joseph","public urination                ",2,4,2018,-73.9623467,40.79721,20,"W  104 ST",,"New York",10025,1045971,"fe2ac374d3f7a160",7,4,1
+"Moore","Matthew","park offenses                   ",3,10,2018,-73.8523787,40.8773349,3575,"WILSON AVE",,"New York",10469,2066489,"1b5be09b3ef52aee",3,2,2
+"Taylor","William","public consumption of alcohol   ",2,24,2018,-73.8428006,40.8926029,4083,"DE REIMER AVE",,"New York",10466,2075583,"a6213a13002b4839",6,5,2
+"Anderson","Samantha","public consumption of alcohol   ",3,11,2018,-73.9028907,40.8655948,2512,"UNIVERSITY AVE",,"New York",10468,2026063,"fd432cd671d1534a",2,2,3
+"Thomas","William","disorderly conduct              ",3,11,2018,-73.9155798,40.831049,1115,"MORRIS AVE",,"New York",10456,2004744,"54b9ff55826235d9",0,2,1
+"Jackson","David","riding a bicycle on the sidewalk",1,28,2018,-73.857631,40.8635959,2514,"HONE AVE",,"New York",10469,2057197,"2f73286d46761707",1,1,5
+"White","Jonathan","riding a bicycle on the sidewalk",2,20,2018,-73.8962164,40.8507733,2059,"WASHINGTON AVE",,"New York",10457,2020526,"fbf49f04858953b7",4,3,2
+"Harris","Madison","disorderly conduct              ",3,11,2018,-73.851135,40.8495993,1729,"WILLIAMSBRIDGE RD",,"New York",10461,2049548,"91911e0c601d8eb5",4,4,1
+"Martin","Olivia","park offenses                   ",1,8,2018,-73.8650414,40.8173032,621,"COMMONWEALTH AVE",,"New York",10473,2035621,"0ad11b9c5d8614cd",8,2,5
+"Thompson","Hannah","park offenses                   ",2,1,2018,-73.7880836,40.8459097,64,"HAWKINS ST",,"New York",10464,2094307,"8f4f691679d6e5c4",2,2,1
+"Garcia","Ryan","riding a bicycle on the sidewalk",2,19,2018,-73.8492047,40.8942654,1785,"BUSSING AVE",,"New York",10466,2076884,"7d8fd1c4a010861c",8,1,5
+"Martinez","Ashley","park offenses                   ",2,14,2018,-73.8886098,40.8379386,1724,"CROTONA PARK  E",,"New York",10460,2017746,"8b0bc5e025f28e7e",5,1,5
+"Robinson","William","public consumption of alcohol   ",3,22,2018,-73.8703108,40.8328336,1310,"NOBLE AVE",,"New York",10472,2043237,"2ec0df799856f919",8,1,4
+"Clark","Jonathan","disorderly conduct              ",2,21,2018,-73.8325502,40.8452224,2900,"ROBERTS AVE",,"New York",10461,2050603,"42195726c9b61212",7,4,1
+"Rodriguez","Tyler","disorderly conduct              ",1,23,2018,-73.8718024,40.8350434,1412,"CROES AVE",,"New York",10472,2043698,"f8ef40b8abde6828",1,5,5
+"Lewis","John","public consumption of alcohol   ",3,9,2018,-73.8679996,40.8368205,1460,"ST LAWRENCE AVE",,"New York",10460,2044187,"658ef1594f2cb584",1,4,5
+"Lee","Emma","riding a bicycle on the sidewalk",1,23,2018,-73.9128522,40.888668,3720,"INDEPENDENCE AVE",,"New York",10463,2098833,"0784c3284052c571",1,5,2
+"Walker","Christopher","public consumption of alcohol   ",2,9,2018,-73.9168143,40.8075297,276,"ST ANNS AVE",,"New York",10454,2006538,"49fecffc64e11024",5,5,1
+"Hall","Samantha","public consumption of alcohol   ",1,16,2018,-73.8683988,40.8290154,1148,"ROSEDALE AVE",,"New York",10472,2039119,"98c2234e82422486",0,2,5
+"Allen","Joshua","disorderly conduct              ",1,15,2018,-73.8518134,40.8939463,4221,"DIGNEY AVE",,"New York",10466,2076571,"00b0fa0955c5d22b",6,5,2
+"Young","Jacob","riding a bicycle on the sidewalk",3,14,2018,-73.821992,40.834817,3165,"LAYTON AVE",,"New York",10465,2081998,"b5796daeb64c27c8",6,1,1
+"Hernandez","Jonathan","disorderly conduct              ",3,2,2018,-73.860762,40.8891338,4010,"LOWERRE PL",,"New York",10466,2070199,"e14544029df890ae",5,1,5
+"King","Hannah","park offenses                   ",1,1,2018,-73.9992189,40.6712171,251,"BAY ST","REAR","New York",11231,5145343,"070ba76e774bdecf",1,2,1
+"Wright","Emily","park offenses                   ",1,27,2018,-73.8933038,40.6665911,525,"NEW JERSEY AVE",,"New York",11207,9108069,"2e1936e20a02c72b",6,1,1
+"Lopez","Olivia","public consumption of alcohol   ",1,19,2018,-74.1632314,40.5882161,56,"COUNTRY DR  N","A","New York",10314,9118927,"bfb040f554abe0cf",3,4,4
+"Hill","Nicholas","riding a bicycle on the sidewalk",3,15,2018,-73.8193828,40.5990889,1831,"CHANNEL RD",,"New York",11693,5142149,"b39789c28d488dee",8,4,2
+"Scott","Christopher","disorderly conduct              ",3,28,2018,-73.9211443,40.6635881,145,"E  98 ST","B","New York",11212,5145071,"530e26a7138e8a36",5,2,2
+"Green","Emma","public consumption of alcohol   ",3,23,2018,-73.9210125,40.6634701,145,"E  98 ST","C","New York",11212,5145073,"7d3827e60236047e",7,5,5
+"Adams","Joshua","public consumption of alcohol   ",1,4,2018,-73.8782294,40.6826222,181,"FORCE TUBE AVE",,"New York",11208,5145984,"2a8765e869baecaf",0,5,2
+"Baker","Nathan","park offenses                   ",1,19,2018,-73.9993517,40.6659306,51,"20 ST",,"New York",11232,5163927,"9f5596c6c45dcfde",5,1,2
+"Gonzalez","Isabella","riding a bicycle on the sidewalk",1,20,2018,-73.999044,40.66553,52,"20 ST",,"New York",11232,5166243,"4990e0724557b206",5,5,1
+"Nelson","Nicholas","riding a bicycle on the sidewalk",2,25,2018,-73.9196618,40.5573246,22,"JAMAICA WALK",,"New York",11697,345543,"7b94df52cb01c239",7,1,3
+"Carter","Daniel","park offenses                   ",3,9,2018,-73.8876121,40.8264901,1102,"LONGFELLOW AVE",,"New York",10459,2012214,"ea72d006ed109d57",0,5,4
+"Mitchell","Emma","public urination                ",2,2,2018,-73.8770199,40.8732843,3152,"HULL AVE",,"New York",10467,2030836,"94c67604e8e87592",4,3,5
+"Perez","Madison","riding a bicycle on the sidewalk",3,20,2018,-73.8446587,40.8936023,4126,"EDSON AVE",,"New York",10466,2077166,"8c5d19b068f06de6",3,5,1
+"Roberts","Emma","public urination                ",1,15,2018,-73.8860258,40.8596257,554,"E  191 ST",,"New York",10458,2028115,"49d78d859eafac7d",0,1,2
+"Turner","John","public urination                ",2,16,2018,-73.9012004,40.8127597,1033,"AVE ST JOHN",,"New York",10455,2007610,"b0b8509f1edc6e5f",2,2,1
+"Phillips","Ava","public consumption of alcohol   ",2,6,2018,-73.8154738,40.8151717,4324,"E  TREMONT AVE",,"New York",10465,2092621,"36bb3c754ffde6a8",5,3,4
+"Campbell","Joshua","public consumption of alcohol   ",1,8,2018,-73.911904,40.8355756,1307,"COLLEGE AVE",,"New York",10456,2013622,"23f667d095060979",3,5,3
+"Parker","Jonathan","riding a bicycle on the sidewalk",3,8,2018,-73.7717624,40.7552615,"47-22","210 ST",,"New York",11361,172337,"51a541c36a614e21",6,1,3
+"Evans","Christopher","public urination                ",2,9,2018,-73.8565291,40.8816923,911,"E  219 ST",,"New York",10469,2065528,"a6fc46b9daaae647",9,5,3
+"Edwards","Madison","riding a bicycle on the sidewalk",1,23,2018,-73.8556303,40.8081124,2,"BANES CT",,"New York",10473,2032969,"80a966328643de4e",6,4,3
+"Collins","Nathan","public consumption of alcohol   ",3,6,2018,-73.9654423,40.7567471,334,"E  54 ST",,"New York",10022,1032385,"50b1384223d87b9e",3,4,4
+"Stewart","Ryan","disorderly conduct              ",3,25,2018,-73.9754155,40.7835065,116,"W  81 ST",,"New York",10024,1028572,"8e719b41aa5d0bb4",0,4,3
+"Sanchez","Emma","disorderly conduct              ",3,20,2018,-73.9748392,40.7851723,137,"W  83 ST",,"New York",10024,1028722,"ff1567440cb29ce5",5,1,1
+"Morris","Ryan","riding a bicycle on the sidewalk",1,27,2018,-73.9759756,40.7860732,491,"AMSTERDAM AVE",,"New York",10024,1028734,"d70ad827e7b54a68",6,2,5
+"Rogers","Madison","public urination                ",1,17,2018,-73.9890998,40.7636531,401,"W  50 ST",,"New York",10019,1024871,"32296f4069a1d473",1,4,4
+"Reed","Emily","disorderly conduct              ",2,25,2018,-73.9798263,40.7396766,455,"2 AVE",,"New York",10010,1021881,"49913faa80eb9b61",2,4,1
+"Cook","Ashley","riding a bicycle on the sidewalk",3,11,2018,-73.950185,40.8017931,111,"LENOX AVE",,"New York",10026,1045573,"8b19ca1bb4de2d28",8,1,4
+"Morgan","Nathan","public urination                ",3,24,2018,-73.9870762,40.7282148,46,"ST MARKS PL",,"New York",10003,1007993,"8ea4544f2a8e6397",0,2,1
+"Bell","Christopher","riding a bicycle on the sidewalk",3,19,2018,-74.0028009,40.7312595,37,"CORNELIA ST",,"New York",10014,1012732,"9cf7f1bb6235edcb",6,3,2
+"Murphy","Ryan","park offenses                   ",1,22,2018,-73.9120386,40.8335641,1237,"FINDLAY AVE",,"New York",10456,2004419,"afc3e850ebae68f7",3,3,2
+"Bailey","Hannah","disorderly conduct              ",3,5,2018,-74.0047077,40.7233189,100,"AVE OF THE AMERICAS",,"New York",10013,1009040,"380b4115493bf41a",5,4,5
+"Rivera","Ashley","public consumption of alcohol   ",1,26,2018,-74.0024758,40.7274951,54,"MAC DOUGAL ST",,"New York",10012,1010207,"74ed4693450c7f1b",9,2,1
+"Cooper","James","public consumption of alcohol   ",1,6,2018,-73.9986049,40.7139951,8,"MOTT ST",,"New York",10013,1001963,"f6767616cfb3dad4",8,3,5
+"Richardson","Ashley","riding a bicycle on the sidewalk",3,8,2018,-74.0048683,40.7173544,83,"LEONARD ST",,"New York",10013,1002168,"2ab371e2b8bdaa2b",7,2,3
+"Cox","Nathan","public consumption of alcohol   ",3,12,2018,-73.8882417,40.8675752,2805,"POND PL",,"New York",10458,2028701,"cfff04b6bda4f3d5",8,3,3
+"Howard","Madison","park offenses                   ",1,14,2018,-73.8208004,40.8182689,316,"SWINTON AVE",,"New York",10465,2092370,"aa57dc519d372295",7,5,1
+"Ward","Nathan","public urination                ",3,20,2018,-73.8283139,40.8537515,2038,"COLONIAL AVE",,"New York",10461,2052617,"0c9053b9f1d9df9b",2,3,2
+"Torres","William","disorderly conduct              ",2,19,2018,-73.8715763,40.8328135,1321,"CROES AVE",,"New York",10472,2043163,"3d38b45c9ba2eaa9",1,4,5
+"Peterson","William","riding a bicycle on the sidewalk",2,6,2018,-73.8917548,40.8585428,452,"CYRUS PL",,"New York",10458,2020761,"487a91230c1f61c3",8,3,4
+"Gray","Anthony","disorderly conduct              ",1,13,2018,-73.8564921,40.8495478,1843,"PAULDING AVE",,"New York",10462,2050010,"58cc93f587e9541e",4,2,4
+"Ramirez","John","public urination                ",1,2,2018,-73.9060817,40.7540607,"32-52","55 ST",,"New York",11377,30006,"59d7599fd6de974b",1,5,5
+"James","Nicholas","riding a bicycle on the sidewalk",1,16,2018,-73.9189123,40.7796219,"19-20","22 DR",,"New York",11105,24264,"289e670b4e5232f0",5,3,5
+"Watson","Michael","disorderly conduct              ",2,17,2018,-73.8920224,40.7346299,"72-05","CALAMUS AVE",,"New York",11377,63420,"903d2899572cfe74",1,1,3
+"Brooks","Hannah","riding a bicycle on the sidewalk",2,28,2018,-73.9160967,40.7793616,"22-11","23 ST",,"New York",11105,23395,"5d89b2dc0b214c29",6,3,4
+"Kelly","Ethan","public urination                ",3,9,2018,-73.8296261,40.7469693,"134-38","57 AVE",,"New York",11355,152498,"5141555cb093e41d",4,3,1
+"Sanders","John","public urination                ",1,27,2018,-73.7920327,40.7343738,"67-23","179 ST",,"New York",11365,167728,"6db5e2592555cb71",9,5,1
+"Price","Nicholas","public urination                ",1,20,2018,-73.7743729,40.7451846,"58-31","202 ST",,"New York",11364,175898,"a0d2ebf8acd70e9f",3,3,4
+"Bennett","Emily","public urination                ",2,17,2018,-73.8745607,40.7174474,"65-04","79 ST",,"New York",11379,79227,"97c7e0c73e43b2b0",5,2,2
+"Wood","Jacob","riding a bicycle on the sidewalk",3,16,2018,-73.7896927,40.7617598,"192-04","39 AVE",,"New York",11358,132864,"ca11a7c84a23b6fd",0,1,5
+"Barnes","William","disorderly conduct              ",1,4,2018,-73.8094858,40.7531595,"46-31","157 ST",,"New York",11355,136887,"c525144ec50500d9",2,2,3
+"Ross","Joshua","public consumption of alcohol   ",3,11,2018,-73.7857031,40.7296221,"75-24","184 ST",,"New York",11366,169805,"613a73964de05fd3",0,3,5
+"Henderson","Ava","riding a bicycle on the sidewalk",3,12,2018,-73.8774127,40.7266306,"82-20","60 RD",,"New York",11379,74678,"7181a8b420f18127",8,3,3
+"Coleman","John","public urination                ",3,17,2018,-73.7893771,40.7588468,"42-19","192 ST",,"New York",11358,133961,"b6e014fd86a2bb59",9,3,2
+"Jenkins","Samantha","public urination                ",2,18,2018,-73.8867708,40.7625057,"25-18","82 ST",,"New York",11370,26969,"8759a8fc59dddc27",9,3,5
+"Perry","Alexander","public consumption of alcohol   ",3,13,2018,-73.9554543,40.7765072,1461,"3 AVE",,"New York",10028,1038235,"8a3afb3ff405e018",0,1,3
+"Powell","Joseph","public urination                ",1,20,2018,-73.9426688,40.8189064,212,"W  140 ST",,"New York",10030,1051903,"0a6c06259952bb62",8,2,5
+"Long","Isabella","riding a bicycle on the sidewalk",2,21,2018,-73.9376685,40.8252987,273,"W  150 ST",,"New York",10039,1052189,"94a9d7aa07818134",9,1,3
+"Patterson","Matthew","disorderly conduct              ",2,21,2018,-73.9295859,40.8510615,15,"WASHINGTON TER",,"New York",10033,1056589,"0e3c7e50340f4afa",9,2,3
+"Hughes","Ryan","riding a bicycle on the sidewalk",2,16,2018,-73.9475955,40.7812195,325,"E  92 ST",,"New York",10128,1039102,"c7afb81fcd08fc9c",4,4,4
+"Flores","Nicholas","public urination                ",1,27,2018,-73.9825292,40.782794,349,"W  END AVE",,"New York",10024,1027667,"d9cb2fe16f91540b",8,4,2
+"Washington","Samantha","disorderly conduct              ",3,15,2018,-73.9678816,40.7560556,979,"2 AVE",,"New York",10022,1031799,"bfa1464cf51a1535",9,3,5
+"Butler","William","riding a bicycle on the sidewalk",1,10,2018,-73.838034,40.8844672,3662,"PALMER AVE",,"New York",10466,2073719,"cb6939164ea3b948",4,5,4
+"Simmons","Joseph","disorderly conduct              ",2,11,2018,-73.8515071,40.8939187,4212,"DIGNEY AVE",,"New York",10466,2076597,"0e6673916f8bc747",7,2,3
+"Foster","Alexander","public consumption of alcohol   ",2,8,2018,-73.8956596,40.8316309,1334,"CHISHOLM ST",,"New York",10459,2018728,"32ad0b01a75e8e49",9,5,2
+"Gonzales","Alexander","public urination                ",1,1,2018,-73.910286,40.8360336,1336,"FINDLAY AVE",,"New York",10456,2013335,"917f670bab6efa2f",4,3,2
+"Bryant","Christopher","park offenses                   ",1,10,2018,-73.9224821,40.8496701,1628,"SEDGWICK AVE",,"New York",10453,2016439,"b2e845a5a2e83a7f",9,3,4
+"Alexander","Nicholas","riding a bicycle on the sidewalk",3,6,2018,-73.922073,40.8085966,422,"E  138 ST",,"New York",10454,2000520,"07ebe34dadcd5f97",2,5,4
+"Russell","John","public urination                ",1,14,2018,-73.9044681,40.8643298,111,"FATHER ZEISER PL",,"New York",10468,2026278,"fb00e72a10f5cdea",3,2,2
+"Griffin","Anthony","public consumption of alcohol   ",1,11,2018,-73.8919128,40.8414583,1791,"PROSPECT AVE",,"New York",10457,2017853,"300c917a6b50e6f8",8,5,2
+"Diaz","Matthew","riding a bicycle on the sidewalk",3,27,2018,-73.8514175,40.8735668,3326,"PEARSALL AVE",,"New York",10469,2067237,"af148dfeace7987e",4,5,2
+"Hayes","Isabella","public consumption of alcohol   ",3,19,2018,,,,,,,,,,2,1,4
